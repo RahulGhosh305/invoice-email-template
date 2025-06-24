@@ -1,1 +1,1 @@
-# invoice-email-template
+# Invoice Email Template
